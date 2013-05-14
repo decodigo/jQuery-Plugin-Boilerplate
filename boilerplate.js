@@ -1,5 +1,6 @@
 /**
  * MyPlugin
+ *
  * @version 1.0
  * @author Nelson Polanco <nelson.polanco@stylecaster.com>
  * @description A simple plugin starter point.
