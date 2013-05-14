@@ -2,8 +2,8 @@
  * MyPlugin
  *
  * @version 1.0
- * @author Nelson Polanco <nelson.polanco@stylecaster.com>
- * @description A simple plugin starter point.
+ * @author Decodigo | Nelson Polanco <npolanco10@gmail.com>
+ * @description A simple jQuery Chainable boilerplate with private and public methods.
  */
 
 
@@ -34,7 +34,7 @@
          * Setup on the elements
          */
         function setup(){
-            // Setup the plugin
+            // Setup the plugin here
 
             // Sample Callback
             if(typeof settings.callback === 'function')
@@ -63,8 +63,6 @@
          * Public Function
          *
          * @return {string} bar
-         *
-         * @usage $(element).foo();
          */
         el.foo = function(){
             return 'bar';
