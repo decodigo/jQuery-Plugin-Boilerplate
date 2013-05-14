@@ -2,7 +2,7 @@
  * MyPlugin
  *
  * @version 1.0
- * @author Decodigo | Nelson Polanco <npolanco10@gmail.com>
+ * @author Decodigo <https://github.com/decodigo/>
  * @description A simple jQuery Chainable boilerplate with private and public methods.
  */
 
