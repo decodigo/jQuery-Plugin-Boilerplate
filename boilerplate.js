@@ -39,7 +39,6 @@
             // Sample Callback
             if(typeof settings.callback === 'function')
                 settings.callback();
-
         }
 
         /***********************************
